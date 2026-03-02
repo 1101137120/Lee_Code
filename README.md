@@ -15,6 +15,7 @@ leetcode-journey/
 └── topics/                 # 依題型分類的實作與測試
     ├── arrays/
     ├── sliding_window/
+    ├── stack/
     ├── trees/
     └── dp/
 ```
@@ -25,3 +26,4 @@ leetcode-journey/
 |------|------|------|------|
 | 1 | Two Sum | arrays | ✅ |
 | 70 | Climbing Stairs | dp | ✅ |
+| 71 | Simplify Path | stack | ✅ |
